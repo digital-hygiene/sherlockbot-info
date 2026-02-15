@@ -25,7 +25,7 @@ Sherlock Bot — Telegram-бот, который помогает пользов
 ## Полезные ссылки
 - Информационный сайт: https://sherlockbot.co  
 - Telegram-канал о цифровой гигиене: https://t.me/digital_hygiena
-- Ссылка на бота: https://t.me/digita1_safety_bot
+- Ссылка на бота: https://t.me/digitralrbot
 
 ## Важно
 Этот репозиторий является **независимым информационным ресурсом** и **не является официальным сайтом или официальным представителем Telegram-бота Sherlock Bot**.
